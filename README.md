@@ -1,4 +1,4 @@
-# TEMPLATE
+# TEMPLATE for JUPITER notebook
 
 ## Introduction
 Introduce the project
