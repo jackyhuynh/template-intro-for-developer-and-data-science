@@ -60,5 +60,3 @@ my README.md format was retrieved from
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-
-* Udacity.com for design an outstanding program for Students.
