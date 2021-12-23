@@ -1,7 +1,8 @@
 # TEMPLATE for JUPITER notebook
 
 ## Introduction
-Introduce the project
+ Simply introduce the project that specically built with Jupiter Notebook. 
+I beleve the simplier the Readme file, the easier to read
 
 ## Technology
 List of technology
