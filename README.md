@@ -1,4 +1,4 @@
-# TEMPLATE for JUPITER notebook
+# TEMPLATE
 
 ## Introduction
 Please look for other README.md file if you are intereted any specific languages, then delete all the other README.md file 
