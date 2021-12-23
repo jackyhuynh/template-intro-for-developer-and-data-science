@@ -1,10 +1,9 @@
 # TEMPLATE for JUPITER notebook
 
 ## Introduction
-
 Please look for other README.md file if you are intereted any specific languages, then delete all the other README.md file 
 and rename it to README.md . Introduce the project scope and purpose. You can also keep this private and organize this GitHub as a private libary for yourself.
-<img src="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/images/instruction.JPG">
+
 
 ## Documents/Research Paper
 Link your research paper <a href="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/documents/resarch-sample.pdf">here</a> if you need
