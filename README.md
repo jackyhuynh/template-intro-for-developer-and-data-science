@@ -7,7 +7,7 @@ I beleve the simplier the Readme file, the easier to read
 <img src="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/images/instruction.JPG">
 
 ## Documents/Research Paper
-Link your research paper here if you need
+Link your research paper <a href="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/documents/resarch-sample.pdf">here</a> if you need
 
 ## Technology
 List of technology
