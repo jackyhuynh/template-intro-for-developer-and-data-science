@@ -34,7 +34,6 @@ A step by step series of examples that tell you how to get a development envirom
 * [Install R](https://www.r-project.org/) - If you haven't downloaded and installed R, here's how to get started.
 * [R Studio IDE](https://rstudio.com/products/rstudio/#:~:text=RStudio%20Take%20control%20of%20your%20R%20code%20RStudio,tools%20for%20plotting,%20history,%20debugging%20and%20workspace%20management.) - After that choose R Studio Desktop, and the free version (unless you have the Pro install). R free version is pretty good IDE.
 
-
 ## Running the tests
 Explain how to run the automated tests for this system:
 - Start R Studio.
