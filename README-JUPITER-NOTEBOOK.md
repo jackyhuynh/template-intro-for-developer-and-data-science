@@ -17,6 +17,13 @@ List of technology
 - Data Visualization
 - Machine Learning
 
+## Python for Data Science Tools:
+These are packages that are usually used for Data Science:
+- [Python 3 Standard Library](https://docs.python.org/3/index.html)
+- [NumPy Documentation](https://numpy.org/doc/stable/reference/index.html)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Mathplotlib Documentation](https://matplotlib.org/2.0.2/index.html)
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
