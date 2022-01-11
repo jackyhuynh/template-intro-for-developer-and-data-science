@@ -9,6 +9,7 @@ I believe the simplier the Readme file, the easier to read
 
 ## Documents/Research Paper
 Link your research paper <a href="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/documents/resarch-sample.pdf">here</a> if you need
+- [Python 3 Standard Library](https://docs.python.org/3/index.html)
 
 ## Technology
 List of technology
